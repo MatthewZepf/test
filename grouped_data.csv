@@ -1,4 +1,4 @@
-year,country_name,v2x_polyarchy,v2elcomvot,v2elsuffrage,v2elpubfin,v2elintim,v2elaccept,v2eltrnout,v2elreggov,v2elrgpwr,v2ellocgov,v2ellocpwr,v2ddyrci,v2ddyrrf,v2ddcredal,v2csprtcpt,v2mecenefm,v2psbars,v2x_jucon,v2xlg_legcon,v2mecrit,e_gdppc,v2clkill
+year,country_name,Democratic index,electoral_competition,suffrage,public_finance,governement election intimidation,acceptance of election results,election turnout,regulatory_governance,regulatory_power,local_governance,local_power,v2ddyrci,corruption_risk,corruption_cultural,participation,economic_effectiveness,political_stability,judicial_control,legislative_control,media_criticism,gdp_per_capita,civil_kills
 1980,Afghanistan,0.084,0.0,100.0,-1.685,,,,1.0,-2.133,1.0,-1.986,0.0,0.0,,-2.258,-2.44,-1.17,0.149,0.171,-1.849,3.965,-2.187
 1980,Albania,0.173,0.0,100.0,0.047,-2.74,-2.165,,1.0,-2.512,1.0,0.199,0.0,0.0,,-3.114,-2.769,-2.177,0.347,0.076,-3.129,9.035,-3.198
 1980,Algeria,0.196,0.0,100.0,1.577,-1.429,1.105,,1.0,-2.005,1.0,-1.666,0.0,0.0,,-1.872,-1.556,-1.893,0.254,0.174,-2.362,19.762,-0.154
