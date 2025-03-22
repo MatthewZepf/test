@@ -3,7 +3,7 @@ import os
 
 # split V-Dem-CD-v15.csv into 20 chunks
 def split():
-    input_file = "V-Dem-CD-v15.csv"
+    input_file = "V-Dem-CY-Full+Others-v15.csv"
     output_dir = "chunks"
     os.makedirs(output_dir, exist_ok=True)  # Ensure the output directory exists
 
